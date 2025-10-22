@@ -1,0 +1,13 @@
+# Core dependencies for KNN CIFAR-10 Classification
+
+# Data processing
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Deep Learning (for CIFAR-10 dataset loading)
+tensorflow>=2.10.0
+
+# Visualization
+matplotlib>=3.5.0
